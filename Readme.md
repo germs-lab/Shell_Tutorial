@@ -5,7 +5,6 @@ The Shell
 **Modified by Jared Flater and Adina Howe**
 
 ### Exercise solutions have been posted as an ipython notebook.
-# Change link to new .rmd with solutions
 You can view [solutions here](https://nbviewer.jupyter.org/github/germs-lab/softwarecarpentry/blob/master/day1.shell/exercise_solutions.ipynb)
 
 # What is the shell how do I access the shell?
@@ -88,6 +87,11 @@ command `ls` will list the files in files in the current
 directory. Directories are often called "folders" because of how they
 are represented in GUIs. Directories are just listings of files. They
 can contain other files or directories.
+
+Lets navigate to our home directory and look at the contents
+
+    cd
+    ls    
 
 Whenever you start up a terminal, you will start in a special
 directory called the *home* directory. Every user has their own home
