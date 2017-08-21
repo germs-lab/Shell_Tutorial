@@ -92,7 +92,7 @@ Use `pwd` to find out what your current working directory is
 
     pwd
 
-Lets navigate to our home directory and look at the contents
+Lets navigate to our home directory and look at the contents using `cd` and `ls`
 
     cd
     ls    
