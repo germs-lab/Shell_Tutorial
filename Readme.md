@@ -88,6 +88,10 @@ directory. Directories are often called "folders" because of how they
 are represented in GUIs. Directories are just listings of files. They
 can contain other files or directories.
 
+Use `pwd` to find out what your current working directory is
+
+    pwd
+
 Lets navigate to our home directory and look at the contents
 
     cd
