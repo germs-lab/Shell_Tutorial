@@ -14,9 +14,13 @@ which allows you to control your computer using commands entered
 with a keyboard instead of controlling graphical user interfaces
 (GUIs) with a mouse/keyboard combination.
 
-Use a browser to open the tutorial on github, located at:
+You can access the repository for this tutorial, hosted on github:
 
     https://github.com/germs-lab/Shell_Tutorial
+
+Or view the tutorial as a webpage here:
+
+    http://germslab.org/Shell_Tutorial/
 
 A *terminal* is a program you run that gives you access to the
 shell. There are many different terminal programs that vary across
