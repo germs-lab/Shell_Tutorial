@@ -262,21 +262,6 @@ Each participant has a unique subject ID, and a made-up subject name.
 Each experiment has a unique experiment ID. The experiment has
 collected 351 files so far.
 
-The data is a bit of a mess! There are inconsistent file names, there
-are extraneous "NOTES" files that we'd like to get rid of, and the
-data is spread across many directories. We are going to use shell
-commands to get this data into shape. By the end we would like to:
-
-1.  Put all of the data into one directory called "alldata"
-
-2.  Have all of the data files in there, and ensure that every file
-    has a ".txt" extension
-
-3.  Get rid of the extraneous "NOTES" files
-
-If we can get through this example in the available time, we will move
-onto more advanced shell topics...
-
 **Wild cards**
 
 Navigate to the `~/Shell_Tutorial/data/THOMAS` directory. This
