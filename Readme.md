@@ -160,7 +160,7 @@ Enter the following command:
 
     cd ~
 
-Now, let's move back into the "Shell_Tutorial" directory
+Now, let's move back into the `Shell_Tutorial` directory:
    
     cd Shell_Tutorial
 	
@@ -237,7 +237,7 @@ seem like a useless shortcut right now, but we'll see when it is
 needed in a little while.
 
 To summarize, the commands `ls ~`, `ls ~/.`, `ls ../../`, and `ls
-/home/Shell_Tutorial` all do exactly the same thing. These shortcuts are not
+/home/p3-training/Shell_Tutorial/` all do exactly the same thing. These shortcuts are not
 necessary, they are provided for your convenience.
 
 **Our data set: Cochlear Implants**
@@ -440,9 +440,9 @@ is where the name comes from, `cat` is short for concatenate).
 1.  Print out the contents of the `~/Shell_Tutorial/dictionary.txt`
     file. What does this file contain?
 
-2.  Without changing directories, (you should still be in `day1.shell`),
+2.  Without changing directories, (you should still be in `Shell_Tutorial`),
     use one short command to print the contents of all of the files in
-    the `/home/Shell_Tutorial/data/THOMAS` directory.
+    the `/home/p3-training/Shell_Tutorial/data/THOMAS` directory.
 
 * * * *
 
