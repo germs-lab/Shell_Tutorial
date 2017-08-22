@@ -22,7 +22,7 @@ Or view the tutorial as a webpage here:
 
     http://germslab.org/Shell_Tutorial/
 
-# The Terminal
+# Access Terminal
 
 A *terminal* is a program you run that gives you access to the
 shell. There are many different terminal programs that vary across
