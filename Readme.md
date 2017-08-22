@@ -133,12 +133,16 @@ end of directories. If the file is *executable* meaning that it can be
 run like a program, then a star will be placed at the end of of the
 file name.
 
+    ls -F
+
 You can also use the command `ls -l` to see whether items in a
 directory are files or directories. `ls -l` gives a lot more
 information too, such as the size of the file and information about
 the owner. If the entry is a directory, then the first letter will be
 a "d". The fifth column shows you the size of the entries in
 bytes. Notice that `testfile` has a size of zero.
+
+    ls -l
 
 Now, let's get rid of `testfile`. To remove a file, just enter the
 command:
