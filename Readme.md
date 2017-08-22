@@ -49,7 +49,7 @@ started by typing `bash` in the terminal. Many commands, especially a
 lot of the basic ones, work across the various shells but many things
 are different. I recommend sticking with bash and learning it well.
 
-[Here is a link for more information](http://en.wikipedia.org/wiki/Bash_Unix_shell)
+[Here is a link for more information](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 ### To open a terminal 
 Mac: single click terminal icon or push `cmd + spacebar` and start typing "terminal"
