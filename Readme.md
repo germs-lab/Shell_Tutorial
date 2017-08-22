@@ -191,7 +191,7 @@ give `ls` the names of other directories to view. Navigate to the
 home directory if you are not already there. Then enter the
 command:
 
-    ls ubuntu/Shell_Tutorial
+    ls /home/p3-training/Shell_Tutorial/ 
 
 ## Saving time with shortcuts, wild cards, and tab completion
 
