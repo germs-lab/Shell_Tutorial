@@ -52,7 +52,7 @@ are different. I recommend sticking with bash and learning it well.
 [Here is a link for more information](http://en.wikipedia.org/wiki/Bash_Unix_shell)
 
 ### To open a terminal 
-Mac: single click terminal icon or push cmd + spacebar and start typing terminal
+Mac: single click terminal icon or push `cmd + spacebar` and start typing "terminal"
 
 Windows: Download and install [Putty](http://www.putty.org) or [MobaXterm](http://mobaxterm.mobatek.net/download-home-edition.html) 
 
