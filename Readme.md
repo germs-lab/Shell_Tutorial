@@ -154,7 +154,7 @@ you will see that `testfile` is gone.
 
 **Changing Directories**
 
-Now, let's move to a different directory.  Right now, we are in the "Shell_Tutorial" directory which is in home directory.  You can see this with the command `pwd`.   The command `cd` (change directory) is used to move around. Let's move into the home directory.
+Now, let's move to a different directory.  Right now, we are in the `Shell_Tutorial` directory which is in home directory.  You can see this with the command `pwd`.   The command `cd` (change directory) is used to move around. Let's move into the home directory.
 
 Enter the following command:
 
@@ -186,8 +186,8 @@ manual using the `man` program. Try entering:
 
     man ls
 
-This will open the manual page for `ls`. Use the space key to go
-forward and b to go backwards, j and k will move you one line up and down, respectively. When you are done reading, just hit `q`
+This will open the manual page for `ls`. Use the `space` key to go
+forward and `b` to go backwards, `j` and `k` will move you one line up and down, respectively. When you are done reading, just hit `q`
 to exit.
 
 Programs that are run from the shell can get extremely complicated. To
@@ -438,22 +438,22 @@ case. Enter the following command:
     less ~/Shell_Tutorial/dictionary.txt
 
 `less` opens the file, and lets you navigate through it. The commands
-are identical to the `man` program. Use "space" to go forward and hit
-the "b" key to go backwards. The "g" key goes to the beginning of the
-file and "G" goes to the end. Finally, hit "q" to quit.
+are identical to the `man` program. Use `space` to go forward and hit
+the `b` key to go backwards. The `g` key goes to the beginning of the
+file and `G` goes to the end. Finally, hit `q` to quit.
 
 `less` also gives you a way of searching through files. Just hit the
-"/" key to begin a search. Enter the name of the word you would like
+`/` key to begin a search. Enter the name of the word you would like
 to search for and hit enter. It will jump to the next location where
 that word is found. Try searching the `dictionary.txt` file for the
-word "cat". If you hit "/" then "enter", `less` will just repeat
+word `cat`. If you hit `/` then "enter", `less` will just repeat
 the previous search. `less` searches from the current location and
 works its way forward. If you are at the end of the file and search
-for the word "cat", `less` will not find it. You need to go to the
+for the word `cat`, `less` will not find it. You need to go to the
 beginning of the file and search.
 
 Remember, the `man` program uses the same commands, so you can search
-documentation using "/" as well!
+documentation using `/` as well!
 
 
 ## Redirection
@@ -520,7 +520,7 @@ important, let's rename it:
 
     mv all_data all_data_IMPORTANT
 
-Now the file name has been changed to all_data_IMPORTANT. Let's delete
+Now the file name has been changed to `all_data_IMPORTANT`. Let's delete
 the backup file now:
 
     rm /tmp/all_data_backup
@@ -557,7 +557,7 @@ For each of the files indicated, `wc` has printed a line with three
 numbers. The first is the number of lines in that file. The second is
 the number of words. Finally, the total number of characters is
 indicated. The final line contains this information summed over all of
-the files. Thus, there were 10445 characters in total. 
+the files. Thus, there were `10445` characters in total. 
 
 Remember that the `Bert/*` and `gerdal/*4*` files were merged
 into the `all_data` file. So, we should see that `all_data` contains
