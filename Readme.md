@@ -846,7 +846,7 @@ require a `find` command):
 Hint: If you make a mistake and need to start over just do the
 following:
 
-1.  Navigate to the `day1.shell` directory
+1.  Navigate to the `Shell_Tutorial` directory
 
 2.  Delete the `data` directory
 
