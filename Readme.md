@@ -105,8 +105,8 @@ Lets navigate to our home directory and look at the contents using `cd` and `ls`
     cd
     ls    
 
-#### Note
-When you start up a terminal, you will start in a special
+#### Note*
+*When you start up a terminal, you will start in a special
 directory called the *home* directory. Every user has their own home
 directory where they have full access to do whatever they want. 
 
