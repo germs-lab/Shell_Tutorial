@@ -199,7 +199,7 @@ command:
 
 There are some shortcuts which you should know about. Dealing with the
 home directory is very common. So, in the shell the tilde character,
-`~`, is a shortcut for your home directory. Navigate to the `day1.shell`
+`~`, is a shortcut for your home directory. Navigate to the `Shell_Tutorial`
 directory, then enter the command:
 
     ls ~
@@ -210,12 +210,12 @@ above your current directory. Thus:
 
     ls ..
 
-prints the contents of the `/home/ubuntu/Shell_Tutorial`. You can chain
+prints the contents of the `/home/p3-training/` directory. You can chain
 these together, so:
 
     ls ../../
 
-prints the contents of `/home/ubuntu` which is your home
+prints the contents of `/home/` which is your root 
 directory. Finally, the special directory `.` always refers to your
 current directory. So, `ls`, `ls .`, and `ls ././././.` all do the
 same thing, they print the contents of the current directory. This may
@@ -375,14 +375,14 @@ shell looks for programs to run. If your program is not in this list,
 then an error is printed. The shell ONLY checks in the places listed
 in the `PATH` environment variable. 
 
-Navigate to the `day1.shell` directory and list the contents. You will
+Navigate to the `Shell_Tutorial` directory and list the contents. You will
 notice that there is a program (executable file) called `hello` in
 this directory. Now, try to run the program by entering:
 
     hello
 
 You should get an error saying that hello cannot be found. That is
-because the directory `/home/Shell_Tutorial` is not in the
+because the directory `/p3-training/Shell_Tutorial` is not in the
 `PATH`. You can run the `hello` program by entering:
 
     ./hello
@@ -392,7 +392,7 @@ directory. This tells the shell to run the `hello` program which is
 located right here. So, you can run any program by entering the path
 to that program. You can run `hello` equally well by specifying:
 
-    /home/Shell_Tutorial/hello
+    /p3-training/Shell_Tutorial/hello
 
 Or by entering:
 
