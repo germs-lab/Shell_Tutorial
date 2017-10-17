@@ -768,7 +768,7 @@ conducted:
 Create an executable script called `smallestrange` in the `data`
 directory, that is similar to the `smallest` script, but prints the
 file containing the file with the smallest Range. Use the commands
-`grep`, `sort`, and `tail` to do this.
+`grep`, `sort`, and `head` to do this.
 
 * * * * 
 
